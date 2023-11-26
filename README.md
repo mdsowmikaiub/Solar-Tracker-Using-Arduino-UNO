@@ -1,4 +1,4 @@
-# Solar-Tracker-Using-Arduino-UNO
+# Solar Tracker Using Arduino UNO
 This is an Arduino UNO microcontroller ATmega328P-based project. The main goal of the project is to track the sunlight by light detection sensors and produce current with a small amount by a small solar panel whose maximum capacity is 5-volt.
 
 ## **Project Diagram:**
